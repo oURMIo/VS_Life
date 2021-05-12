@@ -1,0 +1,4 @@
+﻿  life.cpp
+E:\Progremir_2018-1019_C++\_Anna Nikolaevna\life\life\life.cpp(35,12): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+E:\Progremir_2018-1019_C++\_Anna Nikolaevna\life\life\life.cpp(132,2): error C3861: color: идентификатор не найден
+E:\Progremir_2018-1019_C++\_Anna Nikolaevna\life\life\life.cpp(47): message : выполняется компиляция ссылки на экземпляр шаблон функции "void print<20,60,bool>(const HANDLE &,const COORD &,const std::array<std::array<bool,60>,20> &)"
